@@ -12,7 +12,8 @@ body {
 
 .colorbar {
     height: 12px;
-    background-image: linear-gradient(to right, #4776E6, #8E54E9, #FF8008, #FFC837);
+    border-radius: 40px;
+    background-image: linear-gradient(to right, #4776E6, #8E54E9, #ff3908, #FFC837);
 }
 
 a:hover {
@@ -40,23 +41,22 @@ img {
 
 #projects {
     margin-top: 40px;
-    font-weight: bolder;
+    text-decoration: underline;
 
 }
 
 #me {
-    width: 90%;
     text-align: center;
 }
 #skills {
     margin-top: 30px;
-    font-weight: bolder;
+    text-decoration: underline;
 }
 
 #education {
     margin-top: 40px;
     margin-bottom: -10px;
-    font-weight: bolder;
+    text-decoration: underline;
 }
 
 footer {
@@ -74,4 +74,12 @@ a {
 
 a:visited {
     text-decoration: none;
+}
+
+p {
+    font-family: 'Roboto Mono', monospace;
+}
+
+ul {
+    font-family: 'Roboto Mono', monospace;
 }
