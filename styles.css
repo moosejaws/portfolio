@@ -83,3 +83,7 @@ p {
 ul {
     font-family: 'Roboto Mono', monospace;
 }
+
+#funfact {
+    text-decoration: underline;
+}
