@@ -43,6 +43,8 @@ img {
 #projects {
     margin-top: 40px;
     text-decoration: underline;
+    font-size: 18px;
+
 
 }
 
@@ -53,12 +55,16 @@ img {
 #skills {
     margin-top: 30px;
     text-decoration: underline;
+    font-size: 18px;
+
 }
 
 #education {
     margin-top: 40px;
     margin-bottom: -10px;
     text-decoration: underline;
+    font-size: 18px;
+
 }
 
 footer {
@@ -90,6 +96,7 @@ ul {
 
 #funfact {
     text-decoration: underline;
+    font-size: 18px;
 }
 
 #desc {
