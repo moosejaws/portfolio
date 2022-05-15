@@ -119,6 +119,9 @@ ul {
     font-size: 16px;
 }
 
+/*----------------------------- square -----------------------------*/
+
+
 /*----------------------------- hire me -----------------------------*/
 
 .hire {
@@ -127,12 +130,14 @@ ul {
     background-color: #FFC837;
     color: rgb(26, 26, 26);
     padding: 10px;
+    font-size: 17px;
 }
 
 #hireintro {
     margin: auto;
     width: 70%;
     padding: 10px;
+    
 }
 
 #rates {
@@ -149,4 +154,3 @@ ul {
     list-style-type: none;
     justify-content: center;
 }
-
