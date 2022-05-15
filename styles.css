@@ -15,6 +15,7 @@ body {
     width: 60%;
     background-color: rgb(26, 26, 26);
     color: whitesmoke;
+    margin-bottom: 23px;
 }
 
 
@@ -122,7 +123,6 @@ ul {
 /*----------------------------- hire me -----------------------------*/
 
 .hire {
-    
     font-family: sans-serif;
     margin: auto;
     background-color: #FFC837;
