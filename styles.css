@@ -12,7 +12,7 @@ body {
     font-family: sans-serif;
     padding: 20px;
     margin: auto;
-    width: 60%;
+    width: 70%;
     background-color: rgb(26, 26, 26);
     color: whitesmoke;
     margin-bottom: 23px;
@@ -127,20 +127,19 @@ ul {
     margin: auto;
     background-color: #FFC837;
     color: rgb(26, 26, 26);
-    height: 440px;
     padding: 10px;
-
 }
 
 #hireintro {
     margin: auto;
-    width: 40%;
+    width: 70%;
     padding: 10px;
 }
 
 #rates {
     margin: auto;
-    width: 40%;
+    width: 70%;
+    margin-bottom: 40px;
 }
 
 #underline {
