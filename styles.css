@@ -1,13 +1,23 @@
 body {
 
     font-family: sans-serif;
-    padding: 20px;
     margin: auto;
-    width: 70%;
+    width: 100%;
     background-color: rgb(26, 26, 26);
     color: whitesmoke;
 
 }
+
+.resume {
+    font-family: sans-serif;
+    padding: 20px;
+    margin: auto;
+    width: 60%;
+    background-color: rgb(26, 26, 26);
+    color: whitesmoke;
+}
+
+
 
 
 .colorbar {
@@ -108,3 +118,37 @@ ul {
     font-family: 'Roboto Mono', monospace;
     font-size: 16px;
 }
+
+/*----------------------------- hire me -----------------------------*/
+
+.hire {
+    
+    font-family: sans-serif;
+    margin: auto;
+    background-color: #FFC837;
+    color: rgb(26, 26, 26);
+    height: 440px;
+    padding: 10px;
+
+}
+
+#hireintro {
+    margin: auto;
+    width: 40%;
+    padding: 10px;
+}
+
+#rates {
+    margin: auto;
+    width: 40%;
+}
+
+#underline {
+    text-decoration: underline;
+}
+
+.removedec {
+    list-style-type: none;
+    justify-content: center;
+}
+
