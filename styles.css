@@ -38,7 +38,7 @@ h1 {
 
 #intro {
     text-align: center;
-    font-size: 16px;
+    font-size: 19px;
 }
 
 img {
@@ -87,7 +87,6 @@ footer {
 a {
     text-decoration: none;
     color: rgb(66, 247, 0);
-    font-size: 16px;
 }
 
 a:visited {
@@ -112,6 +111,7 @@ ul {
 }
 
 #location {
+    font-size: 18px;
     text-align: center;
     font-family: 'Roboto Mono', monospace;
 }
