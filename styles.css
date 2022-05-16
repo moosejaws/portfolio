@@ -156,3 +156,20 @@ h2 {
     list-style-type: none;
     justify-content: center;
 }
+
+.yellowemail {
+    color: black;
+}
+
+.yellowemail:hover {
+    color: #2263fa;
+}
+
+.bold {
+    font-weight: bold;
+
+}
+
+.italic {
+    font-style: italic;
+}
