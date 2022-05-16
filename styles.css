@@ -22,7 +22,7 @@ body {
 
 
 .colorbar {
-    height: 12px;
+    height: 28px;
     border-radius: 40px;
     background-image: linear-gradient(to right, #4776E6, #8E54E9, #ff3908, #FFC837);
 }
@@ -174,4 +174,8 @@ h2 {
 
 .italic {
     font-style: italic;
+}
+
+#name {
+    font-size: 55px;
 }
