@@ -144,12 +144,14 @@ h2 {
 
 #rates {
     margin: auto;
-    width: 70%;
+  width: 70%;
+  padding: 10px;
     margin-bottom: 40px;
 }
 
 #underline {
     text-decoration: underline;
+    font-weight: bold;
 }
 
 .removedec {
