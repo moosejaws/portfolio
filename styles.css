@@ -40,7 +40,7 @@ h1 {
 
 #intro {
     text-align: center;
-    font-size: 19px;
+    font-size: 20px;
 }
 
 img {
@@ -56,19 +56,19 @@ img {
 #projects {
     margin-top: 40px;
     text-decoration: underline;
-    font-size: 18px;
+    font-size: 20px;
 
 
 }
 
 #me {
     text-align: center;
-    font-size: 16px;
+    font-size: 20px;
 }
 #skills {
     margin-top: 30px;
     text-decoration: underline;
-    font-size: 18px;
+    font-size: 20px;
 
 }
 
@@ -76,7 +76,7 @@ img {
     margin-top: 40px;
     margin-bottom: -10px;
     text-decoration: underline;
-    font-size: 18px;
+    font-size: 20px;
 
 }
 
@@ -105,7 +105,7 @@ ul {
 
 #funfact {
     text-decoration: underline;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 #desc {
@@ -113,7 +113,7 @@ ul {
 }
 
 #location {
-    font-size: 18px;
+    font-size: 19px;
     text-align: center;
     font-family: 'Roboto Mono', monospace;
 }
